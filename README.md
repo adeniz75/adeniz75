@@ -3,7 +3,7 @@
 
 <h3 align="left">Unity Game: </h3>
 <p align="left">
-<a href="https://github.com/adeniz75/Space_Game_Unity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeniz" height="30" width="40" /></a>
+<a href="https://github.com/adeniz75/Space_Game_Unity" target="blank"><img align="center" alt="adeniz" height="30" width="40" /></a>
 </p>
 
 
